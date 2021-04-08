@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    width:1440px;
+    height:800px;
+    background-image: url("./images/bg-pattern-desktop.svg");
+    background-size: 1440px 800px;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.logo {
+    width: 157px;
+    height: 32px;
+    margin-left: 166px;
+    margin-top: 66px;
+    margin-right: 506px ;
+    margin-bottom: 140px;
+}
+
+ .thinFont {
+     margin-left: 166px;
+     margin-top: 237px;
+     padding-bottom: 9px;
+     padding-top: 9px;
+     height: 46px; 
+     font-size: 46px;
+     text-transform: uppercase;
+     color: #CA989B;
+     font-weight: 300;
+     letter-spacing: 27px;
+ }
+
+ .thickFontOne {
+    margin-left: 166px;
+    margin-top: 139px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    height: 46px;
+    font-size: 46px;
+    text-transform: uppercase;
+    letter-spacing: 27px;
+    font-weight: 600;
+    color: #413A3A;
+ }
+
+ .thickFontTwo {
+    margin-left: 166px;
+    margin-top: 139px;
+    margin-bottom: 43px;
+    padding-bottom: 9px;
+    padding-top: 9px;  
+    height: 46px; 
+    font-size: 46px;
+    text-transform: uppercase;
+    letter-spacing: 27px;
+    font-weight:600;
+    color: #413A3A;
+ }
+
+ p {
+    margin-top: 43px;
+    margin-left: 166px;
+    font-size: 16px;
+    color: #CE9797;
+    line-height: 1.6;
+    
+ }
+
+ input {
+    margin-left: 166px;
+    margin-top: 40px;
+    padding: 20px;
+    width: 444px;
+    height: 54px; 
+    border-radius: 30px;
+    border: 1px solid #CE9797;
+    box-shadow: none;
+    background-color: transparent;
+ }
+
+ button{
+     margin-top: 40px;
+     margin-left: -102px;
+     height: 54px;
+     width:98px;
+     background-image: linear-gradient(to right, #F8BFBF,#EE8C8C);
+     border-radius: 30px ;
+     border: none;
+     color: white;
+     font-family: 'Josefin Sans', sans-serif;
+     font-size: 30px;
+     font-weight: 300;
+ }
+
+ .photo{
+     width: 609px;
+     margin-right: 0;
+
+ }
+ 
+ footer{     
+     margin-left: -1437px;
+     margin-top: 700px;
+
+ }
